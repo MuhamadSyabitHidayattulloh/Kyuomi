@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  line_icons: ^2.0.3
+  timeago: ^3.7.1
 
 dev_dependencies:
   flutter_test:
